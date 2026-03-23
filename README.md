@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>I am a B.Sc. IT student with a passion for building intelligent systems. I am currently honing my skills in Artificial Intelligence and Machine Learning and am actively seeking internship opportunities where I can contribute to real-world projects and grow as a developer.<br><br>🛠 Tech Stack<br>• 🌱 AI/ML : Scikit-Learn, Pandas, NumPy (Learning TensorFlow / PyTorch)<br>• 🚀 Goal: To develop efficient AI and ML models that solve complex problems and to gain hands-on experience in a professional engineering environment.<br>• 💬 Ask me about: My journey toward becoming an AI/ML Engineer, Python or C++.<br>• 📫 How to reach me: Link to LinkedIn / Email.
+🚀 About Me<br>I am a B.Sc. IT student with a passion for building intelligent systems. I am currently honing my skills in Artificial Intelligence and Machine Learning and am actively seeking internship opportunities where I can contribute to real-world projects and grow as a developer.<br><br>🛠 Tech Stack<br>• 🌱 AI/ML : Scikit-Learn, Pandas, NumPy (Learning TensorFlow / PyTorch)<br>• 🚀 Goal: To develop efficient AI and ML models that solve complex problems and to gain hands-on experience in a professional engineering environment.<br>• 💬 Ask me about: My journey toward becoming an AI/ML Engineer, Python or C++.<br>• 📫 How to reach me: LinkedIn / Email.
 
 
 ## 🌐 Socials:
